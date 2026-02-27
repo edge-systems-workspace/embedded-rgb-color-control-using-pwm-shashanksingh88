@@ -20,7 +20,7 @@
 
 // TODO 3:
 // Define BLUE pin (Use 11)
-//#define BLUE_PIN 11
+#define BLUE_PIN 11
 
 void setup() {
 
