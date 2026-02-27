@@ -16,7 +16,7 @@
 
 // TODO 2:
 // Define GREEN pin (Use 10)
-//#define GREEN_PIN 10
+#define GREEN_PIN 10
 
 // TODO 3:
 // Define BLUE pin (Use 11)
